@@ -15,3 +15,8 @@ On les appelle Boxer car visuellement sur un Boxer 4 les pistons d'une meme rang
 # F6 - PORSCHE MA1.76
 
 -----
+
+[`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
+[`<< Precedent`](https://github.com/Plunne/Forza/blob/main/Swaps/Swaps2.md#ii-moteurs-en-v)
+[`Swaps Drift`](https://github.com/Plunne/Forza/blob/main/Swaps/README.md#liste-des-swaps-moteurs)
+[`Suivant >>`](https://github.com/Plunne/Forza/blob/main/Swaps/Swaps4.md#iv-moteurs-rotatifs)

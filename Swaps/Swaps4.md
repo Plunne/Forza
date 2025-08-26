@@ -15,3 +15,7 @@ Il est a noter que les rotatifs demandent tout de meme un entretien specifique. 
 # R4 - MAZDA 26B
 
 -----
+
+[`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
+[`<< Precedent`](https://github.com/Plunne/Forza/blob/main/Swaps/Swaps3.md#iii-moteurs-boxer)
+[`Swaps Drift`](https://github.com/Plunne/Forza/blob/main/Swaps/README.md#liste-des-swaps-moteurs)

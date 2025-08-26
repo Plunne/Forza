@@ -40,3 +40,7 @@ Ce moteurs ne sont pas equilibres de nature et ont besoin de masse additionnelle
 
 -----
 
+[`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
+[`<< Precedent`](https://github.com/Plunne/Forza/blob/main/Swaps/Swaps1.md#i-moteurs-en-ligne)
+[`Swaps Drift`](https://github.com/Plunne/Forza/blob/main/Swaps/README.md#liste-des-swaps-moteurs)
+[`Suivant >>`](https://github.com/Plunne/Forza/blob/main/Swaps/Swaps3.md#iii-moteurs-boxer)
