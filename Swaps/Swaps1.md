@@ -218,6 +218,68 @@ TOYOTA SUPRA Mk4 (1998)
 
 # i6 - BMW S50
 
+![](https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Swaps/pics/i6_3L2_BMW_S50.jpg)
+
+## 3.2L i6
+
+**Alimentation d'origine :** Atmospherique  
+**Suralimentation disponibles :** Turbo
+
+|               |   Min   |   Max   |
+|:--------------|:-------:|:-------:|
+| **Cylindree** | 3201 cc | 3600 cc |
+| **Puissance** | 321 HP  | 760 HP  |
+| **Couple**    | 350 Nm  | 747 Nm  |
+
+### Modele d'origine
+| Marque | Modele | Annee |
+|:------:|:-------|:-----:|
+|  BMW   | M3 E36 | 1997  |
+
+
+### Disponible
+|  Marque   | Modele                   | Annee |
+|:---------:|:-------------------------|:-----:|
+|    BMW    | M5 E28                   | 1988  |
+|    BMW    | M3 E30                   | 1991  |
+|    BMW    | Z3 M COUPE               | 2002  |
+| CHEVROLET | Corvette                 | 1953  |
+|  DATSUN   | 510                      | 1970  |
+|   FORD    | Escort RS1600            | 1973  |
+|   FORD    | Capri                    | 1973  |
+|   FORD    | Escort RS1800            | 1977  |
+|   HONDA   | S2000 AP1                | 2003  |
+|   HONDA   | S2000 AP2                | 2009  |
+|   LEXUS   | SC300                    | 1997  |
+|   LEXUS   | LC500                    | 2021  |
+|   MAZDA   | MX-5 NA                  | 1994  |
+|   MAZDA   | MX-5 NB                  | 2005  |
+|   MAZDA   | MX-5 NC                  | 2013  |
+|   MAZDA   | MX-5 ND1                 | 2016  |
+|   MAZDA   | MX-5 ND2 RF              | 2022  |
+| MERCEDES  | 190E Evo II              | 1990  |
+|  NISSAN   | 240Z S30Z                | 1969  |
+|  NISSAN   | Skyline 2000GT-R KPGC10  | 1971  |
+|  NISSAN   | Skyline 2000GT-R KPGC110 | 1973  |
+|  NISSAN   | Skyline GTS-R R31        | 1987  |
+|  NISSAN   | Silvia PS13              | 1992  |
+|  NISSAN   | 240SX RMS13              | 1993  |
+|  NISSAN   | Silvia S14               | 1994  |
+|  NISSAN   | 300ZX Z32                | 1994  |
+|  NISSAN   | Silvia S14a              | 1998  |
+|  NISSAN   | Silvia S15               | 2000  |
+|  NISSAN   | 350Z Z33                 | 2003  |
+|  NISSAN   | Z Z35                    | 2023  |
+|  PORSCHE  | 944 Turbo                | 1989  |
+|  PORSCHE  | 968 Turbo S              | 1993  |
+|  SUBARU   | BRZ ZC6                  | 2013  |
+|  SUBARU   | BRZ ZD8                  | 2022  |
+|  TOYOTA   | S800                     | 1965  |
+|  TOYOTA   | 2000GT                   | 1969  |
+|  TOYOTA   | GT86 ZN6                 | 2013  |
+|  TOYOTA   | GR86 ZN8                 | 2022  |
+|   VOLVO   | 242                      | 1983  |
+
 -----
 
 [`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
