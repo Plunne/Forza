@@ -60,6 +60,6 @@ Tout a commence avec des petites Toyota Starlet et AE86 puis sont venues les Nis
 -----
 
 [`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
-[`<< Precedent`]()
+[`<< Precedent`](https://github.com/Plunne/Forza/blob/main/Guide/Guide2.md#ii-types-de-transmissions)
 [`Guide Drift`](https://github.com/Plunne/Forza/tree/main/Guide#guide-du-drift-forza-horizon)
-[`Suivant >>`]()
+[`Suivant >>`](https://github.com/Plunne/Forza/blob/main/Guide/Guide4.md#iv-choisir-sa-voiture)

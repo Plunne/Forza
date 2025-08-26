@@ -74,4 +74,4 @@ Pour expliquer la difference entre ces deux modes, je vous invite a regarder ce 
 
 [`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
 [`Guide Drift`](https://github.com/Plunne/Forza/tree/main/Guide#guide-du-drift-forza-horizon)
-[`Suivant >>`]()
+[`Suivant >>`](https://github.com/Plunne/Forza/blob/main/Guide/Guide2.md#ii-types-de-transmissions)
