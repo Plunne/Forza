@@ -26,3 +26,7 @@ Ce forum FaQ regroupe les reponses a des questions frequement posees sur le drif
 > - `468887792` *: Nissan Skyline H/T 2000GT-R  (1973) en classe B 694*
 > 
 > *Les reglages conseilles dans la liste ci-dessus sont tous sur des voitures disponibles dans l'autoshow.*
+
+-----
+
+[`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)

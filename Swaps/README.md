@@ -61,3 +61,5 @@ La suite de ce topic listera les differents swaps que nous retrouvons regulierem
 Vous connaitrez les origines de chacun des swaps, le vehicule sur lequel ont peu voir la modelisation du moteur avec la feature Forzavista, les modeles de Drift sur lequels ces moteurs sont presents ainsi que certaines caracteristiques.
 
 -----
+
+[`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
