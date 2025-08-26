@@ -12,9 +12,9 @@ Avant toute chose, pour pratiquer le drift, il faut nous assurer d'etre dans les
 
 Vu que nous souhaitons faire glisser notre voiture, il est donc crucial de desactiver toute aide pouvant intervenir et nous empecher la perte d'adherance.
 
-<img src="https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/1_Reglages/FH5_Reglages_1_1_Controle1Traction.png" style="border-radius: 10px">
+![](https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/1_Reglages/FH5_Reglages_1_1_Controle1Traction.png)
 
-<img src="https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/1_Reglages/FH5_Reglages_1_1_Controle2Stabilite.png" style="border-radius: 10px">
+![](https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/1_Reglages/FH5_Reglages_1_1_Controle2Stabilite.png)
 
 -----
 
@@ -28,7 +28,7 @@ En fait, meme si l'absence d'ABS permet de bloquer toutes les roues, l'interet i
 
 Libre a vous de choisir de le desactiver ou non mais il est fortement recommande de le faire.
 
-<img src="https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/1_Reglages/FH5_Reglages_1_2_ABS.png" style="border-radius: 10px">
+![](https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/1_Reglages/FH5_Reglages_1_2_ABS.png)
 
 -----
 
@@ -46,11 +46,11 @@ Concernant l'embrayage, beaucoup ne l'utilisent pas mais il est fortement recomm
 
 Vous risquez de caler mais les benefices sont bien plus grands que vous ne le croyez! 😊
 
-<img src="https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/1_Reglages/FH5_Reglages_1_3_Manuelle.png" style="border-radius: 10px">
+![](https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/1_Reglages/FH5_Reglages_1_3_Manuelle.png)
 
 ou
 
-<img src="https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/1_Reglages/FH5_Reglages_1_3_ManuelleEmbrayage.png" style="border-radius: 10px">
+![](https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/1_Reglages/FH5_Reglages_1_3_ManuelleEmbrayage.png)
 
 -----
 
@@ -60,11 +60,11 @@ Il existe deux grandes ecoles sur Forza, les joueurs en direction standard et ce
 
 Le meilleur choix n'existe pas, il resulte juste de preferences propres a chacun.
 
-<img src="https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/1_Reglages/FH5_Reglages_1_4_DirectionStandard.png" style="border-radius: 10px">
+![](https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/1_Reglages/FH5_Reglages_1_4_DirectionStandard.png)
 
 ou
 
-<img src="https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/1_Reglages/FH5_Reglages_1_4_DirectionSimulation.png" style="border-radius: 10px">
+![](https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/1_Reglages/FH5_Reglages_1_4_DirectionSimulation.png)
 
 Pour expliquer la difference entre ces deux modes, je vous invite a regarder ce comparatif video que j'avais fait a l'epoque de FH4 (Toujours d'actu sur FH5) : https://www.youtube.com/watch?v=0jgsWDA7uMU
 
@@ -72,4 +72,6 @@ Pour expliquer la difference entre ces deux modes, je vous invite a regarder ce 
 
 -----
 
-`[Ressources Drift]()` `[Guide Drift]()` `[Suivant >>]()`
+[`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
+[`Guide Drift`](https://github.com/Plunne/Forza/tree/main/Guide#guide-du-drift-forza-horizon)
+[`Suivant >>`]()

@@ -1,10 +1,10 @@
-# Guide du Drift Forza Horizon
+# [Guide du Drift Forza Horizon](https://github.com/Plunne/Forza/tree/main/Guide#guide-du-drift-forza-horizon)
 
 Ce guide vous aidera a decouvrir les bases du drift jusqu'a vos premiers tours de roues.
 
 Au programme vous trouverez les sections suivantes :
 
-# I. Parametres d'Accessibilite
+# [I. Parametres d'Accessibilite](https://github.com/Plunne/Forza/blob/main/Guide/Guide1.md#i-parametres-daccessibilite)
 - 1.1 - Controle de traction et stabilite
 - 1.2 - ABS
 - 1.3 - Boite de vitesse
@@ -49,3 +49,8 @@ Au programme vous trouverez les sections suivantes :
 - 6.7 - Ressorts
 - 6.8 - Amortissement
 - 6.9 - Freins
+
+-----
+
+[`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
+[`Suivant >>`](https://github.com/Plunne/Forza/blob/main/Guide/Guide1.md#i-parametres-daccessibilite)
