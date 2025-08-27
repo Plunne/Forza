@@ -10,6 +10,11 @@ Ce forum FaQ regroupe les reponses a des questions frequement posees sur le drif
 
 -----
 
+# Questions
+
+- [Quelle voiture de drift me conseillez vous?](https://github.com/Plunne/Forza/tree/main/FaQ#quelle-voiture-de-drift-me-conseillez-vous)
+- [Avez-vous des reglages a me recommander?](https://github.com/Plunne/Forza/tree/main/FaQ#avez-vous-des-reglages-a-me-recommander)
+
 ## Quelle voiture de drift me conseillez vous?
 > *La [partie 4](https://github.com/Plunne/Forza/blob/main/Guide/Guide4.md#iv-choisir-sa-voiture) du [Guide Drift](https://github.com/Plunne/Forza/blob/main/Guide/README.md#guide-du-drift-forza-horizon) explique comment choisir une voiture de drift.*
 > 
