@@ -12,7 +12,7 @@ Nous allons aborder en differents points les differents criteres qui nous permet
 
 En realite, il n'y a pas de meilleure voiture de drift. Il y a des voitures plus adaptees a la discipline mais grace a des modifications que nous verrons par la suite qu'il est possible de faire du drift avec absolument n'importe quoi.
 
-Vous avez deja vu dans les 2 parties precedentes ([Transmission]() & [Position Moteur]()) les 2 criteres les plus importants sur une voiture mais nous allons en aborder quelques autres qui vont permettront de trancher plus finement en fonction de vos besoins.
+Vous avez deja vu dans les 2 parties precedentes ([Transmission](https://github.com/Plunne/Forza/blob/main/Guide/Guide2.md#ii-types-de-transmissions) & [Position Moteur](https://github.com/Plunne/Forza/blob/main/Guide/Guide3.md#iii-position-du-moteur--fr-vs-mr-vs-rr)) les 2 criteres les plus importants sur une voiture mais nous allons en aborder quelques autres qui vont permettront de trancher plus finement en fonction de vos besoins.
 
 L'important c'est de savoir choisir selon vos preferences.
 
@@ -76,8 +76,8 @@ Il existe d'autres possibilites mais les deux ci-desssus representent a peu pres
 
 Mais avant tout, l'important c'est de choisir une voiture qui vous plait!
 
-> **Bon a savoir 💡 **
-> *Pour les plus indecis, la car-list All-Spec du club (https://discord.com/channels/857334308854169621/1380887950195298437/1380887950195298437) vous propose differents modeles tres interessants et ayant une histoire a part entiere dans le milieu du Drift, n'hesitez pas a y jeter un coup d'oeil.*
+> **Bon a savoir 💡**  
+> *Pour les plus indecis, les [car-list](https://github.com/Plunne/Forza/blob/main/Voitures/README.md#liste-des-voitures-drift) du club vous proposent differents modeles tres interessants, n'hesitez pas a y jeter un coup d'oeil.*
 
 -----
 
