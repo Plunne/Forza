@@ -50,7 +50,7 @@ Les pistons aux extremites du moteur s'opposent en sortant simultanement, ceux d
 ## 2.0L i4 - TURBO
 
 **Alimentation d'origine :** Turbo  
-**Suralimentation disponibles :** N/A
+**Suralimentations disponibles :** N/A
 
 |               |   Min   |   Max   |
 |:--------------|:-------:|:-------:|
@@ -84,7 +84,7 @@ Les pistons aux extremites du moteur s'opposent en sortant simultanement, ceux d
 ## 2.6L i6 - TT
 
 **Alimentation d'origine :** Twin-Turbo  
-**Suralimentation disponibles :** N/A 
+**Suralimentations disponibles :** N/A 
 
 |               |   Min   |   Max   |
 |:--------------|:-------:|:-------:|
@@ -139,7 +139,7 @@ Les pistons aux extremites du moteur s'opposent en sortant simultanement, ceux d
 ## RACING 3.0L i6T
 
 **Alimentation d'origine :** Turbo  
-**Suralimentation disponibles :** N/A 
+**Suralimentations disponibles :** N/A 
 
 |               |   Min   |   Max   |
 |:--------------|:-------:|:-------:|
@@ -223,7 +223,7 @@ TOYOTA SUPRA Mk4 (1998)
 ## 3.2L i6
 
 **Alimentation d'origine :** Atmospherique  
-**Suralimentation disponibles :** Turbo
+**Suralimentations disponibles :** Turbo
 
 |               |   Min   |   Max   |
 |:--------------|:-------:|:-------:|
