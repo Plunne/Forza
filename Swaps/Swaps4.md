@@ -28,7 +28,7 @@ Il est a noter que les rotatifs demandent tout de meme un entretien specifique. 
 | **Couple**    | 608 Nm  | 632 Nm |
 
 ### Modele d'origine
-*\*Not in game\**
+*Pas presente en jeu*
 | Marque | Modele | Annee |
 |:------:|:-------|:-----:|
 | MAZDA  | 787B   | 1990  |
