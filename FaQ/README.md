@@ -32,6 +32,9 @@ Ce forum FaQ regroupe les reponses a des questions frequement posees sur le drif
 > 
 > *Les reglages conseilles dans la liste ci-dessus sont tous sur des voitures disponibles dans l'autoshow.*
 
+## Pourquoi les Formula Drift ne sont pas autorisees dans le club?
+> *Les Formula Drift et autres voitures speciales ne sont pas autorisees dans le club pour des raisons d'homogeneite et d'equilibrage.*
+
 -----
 
 [`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
