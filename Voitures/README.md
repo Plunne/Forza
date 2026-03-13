@@ -17,6 +17,7 @@ Vous trouverez ci-dessous les differentes restrictions (Specs) disponibles dans 
 ➜ **[US-Spec](<https://docs.google.com/spreadsheets/d/1RZyfx8DZxdDivzHYVNpsOrAUPFmsuH50ScYpcghwzRs/edit?usp=sharing>) :** Voitures americaines uniquement.  
 ➜ **[UK-Spec](<https://docs.google.com/spreadsheets/d/1GFnKeLtfNXO7L35UrrYT8Zhw6rQKEiy3p1Z7_YNZ3RI/edit?usp=sharing>) :** Voitures anglaises uniquement.  
 ➜ **[Pizza-Spec](<https://docs.google.com/spreadsheets/d/12M-vGDREYe-6K4jNCIF9wwB35rpXBx84YmpQd07bbSo/edit?usp=sharing>) :** Voitures italiennes uniquement.  
+➜ **[EUDM-Spec](<https://docs.google.com/spreadsheets/d/1sKxWFCk-b2ArDW_m_VzhGr6BwKKg_Bt_i6q8-Y9RLcY/edit?usp=sharing>) :** Voitures europeennes uniquement.
 
 > ## ⚠️ **ATTENTION!** ⚠️
 > 
