@@ -4,7 +4,7 @@ Ici se trouvent et se trouveront une multitude d'informations qui pourront vous 
 
 - [**FaQ**](https://github.com/Plunne/Forza/tree/main/FaQ#la-foire-aux-questions-du-drift) : La Foire aux Questions du Drift
 - [**Guide**](https://github.com/Plunne/Forza/tree/main/Guide#guide-du-drift-forza-horizon): Guide contenant les divers premiers conseils pour decouvrir le drift.
-- [**Voitures**](https://github.com/Plunne/Forza/tree/main/Voitures#liste-des-voitures-drift) : Liste des voitures faisant partie integrante de la culture du drift.
+- [**Voitures**](https://github.com/Plunne/Forza/tree/main/Voitures#liste-des-voitures-drift) : Listes de voitures autorisees dans le club en differents themes.
 - [**Swaps**](https://github.com/Plunne/Forza/tree/main/Swaps#liste-des-swaps-moteurs) : Liste des swaps moteurs ayant une place historique dans la culture du drift.
 
 # Liens
