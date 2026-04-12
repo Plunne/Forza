@@ -15,6 +15,9 @@ Ici se trouvent et se trouveront une multitude d'informations qui pourront vous 
 ➜ **Trajectoires Volcan :** Videos des trajectoires drift sur le volcan.  
 <https://youtu.be/0AI7UpUnOjw>
 
+➜ **FH6 Map Locations (by @plunne ) :** Map de FH6 amelioree avec les lieux mythiques de touge et drift.
+<https://github.com/Plunne/Forza/blob/main/Doc/FH6_MapLocations_V2.png?raw=true>
+
 -----
 
 *Tout droits reserves, aucune utilisation, reproduction ou modification n'est autorisée sans mon accord préalable.* **@Plunne**
