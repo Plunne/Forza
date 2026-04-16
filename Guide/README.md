@@ -30,8 +30,8 @@ Au programme vous trouverez les sections suivantes :
 - [4.4 - Presence de kit large](https://github.com/Plunne/Forza/blob/main/Guide/Guide4.md#44---presence-de-kit-large)
 - [4.5 - Objectifs](https://github.com/Plunne/Forza/blob/main/Guide/Guide4.md#45---objectifs)
 
-# [V. Choisir ses pieces](https://github.com/Plunne/Forza/blob/main/Guide/Guide5.md#v-choisir-ses-pieces)
-- [5.1 - Conversion](https://github.com/Plunne/Forza/blob/main/Guide/Guide5.md#51---conversion)
+# [V. Choisir ses pieces](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_0.md#v-choisir-ses-pieces)
+- [5.1 - Conversion](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_1.md#51---conversion)
 - [5.2 - Carrosserie]()
 - [5.3 - Roues]()
 - [5.4 - Transmission]()

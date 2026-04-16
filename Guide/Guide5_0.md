@@ -16,4 +16,4 @@ Etant donne que cette partie regroupe beaucoup d'informations et consiste en plu
 [`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
 [`<< Precedent`](https://github.com/Plunne/Forza/blob/main/Guide/Guide4.md#iv-choisir-sa-voiture)
 [`Guide Drift`](https://github.com/Plunne/Forza/tree/main/Guide#guide-du-drift-forza-horizon)
-[`Suivant >>`](https://github.com/Plunne/Forza/blob/main/Guide/Guide5.md#v-choisir-ses-pieces)
+[`Suivant >>`](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_1.md#51---conversion)

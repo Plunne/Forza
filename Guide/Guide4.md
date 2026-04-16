@@ -84,4 +84,4 @@ Mais avant tout, l'important c'est de choisir une voiture qui vous plait!
 [`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
 [`<< Precedent`](https://github.com/Plunne/Forza/blob/main/Guide/Guide3.md#iii-position-du-moteur--fr-vs-mr-vs-rr)
 [`Guide Drift`](https://github.com/Plunne/Forza/tree/main/Guide#guide-du-drift-forza-horizon)
-[`Suivant >>`](https://github.com/Plunne/Forza/blob/main/Guide/Guide5.md#v-choisir-ses-pieces)
+[`Suivant >>`](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_0.md#v-choisir-ses-pieces)

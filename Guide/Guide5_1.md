@@ -103,5 +103,5 @@ Ici, le plus recommande est de ne pas en mettre si votre voiture manque de puiss
 -----
 
 [`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
-[`<< Precedent`](https://github.com/Plunne/Forza/blob/main/Guide/Guide4.md#iv-choisir-sa-voiture)
+[`<< Precedent`](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_0.md#v-choisir-ses-pieces)
 [`Guide Drift`](https://github.com/Plunne/Forza/tree/main/Guide#guide-du-drift-forza-horizon)
