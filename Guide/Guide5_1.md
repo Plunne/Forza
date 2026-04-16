@@ -1,34 +1,28 @@
-# V. Choisir ses pieces
-
-![](https://raw.githubusercontent.com/Plunne/Forza/refs/heads/main/Guide/pics/5_Pieces/pieces_banner.png)
-
-Maintenant que l'on sait choisir une voiture, il est temps de savoir comment la preparer.
-
-Tout au long de cette partie vous allez apprendre a quoi servent chacune des pieces et leur impact sur les performances de la voiture.
-
-Ce guide vise a vous rendre autonomes, aucune piece ne vous sera conseillee. En revanche vous serez aptes a choisir selon vos preferences.
-
------
-
-## 5.1 - Conversion
+# 5.1 - Conversion
 
 En premier lieu, on doit se rendre dans la partie conversion pour definir la base du build. Ces changements doivent se faire des le debut car ils changent toute la philosphie de la voiture et impliquent des changements dans les autres parties.
 
 Parmis les conversions, nous pouvons retrouver un changement de moteur, du type d'admission, du type de transmission et l'ajout de kit-large comme vu precedement.
 
-### 5.1.1 - Swap Moteur
+## 5.1.1 - Transmission RWD
 
-Le swap moteur (changement de moteur) est la premiere chose a voir sur une voiture car elle impacte enormement de choix de pieces.
+Avant tout chose il faut s'assurer d'etre en propulsion. Si votre voiture est une RWD par defaut, ignorez cette etape, si il s'agit d'une AWD ou d'une FWD, vous pouvez dans cette partie la convertir en RWD.
+
+## 5.1.2 - Swap Moteur
+
+Le swap moteur (changement de moteur) est la premiere chose a voir sur une voiture car elle impacte enormement les choix de pieces moteur.
 
 Une partie de l'encyclopedie est specialement dediee sur le sujet et vous explique tout sur les differentes architectures moteur et leur fonctionnement. Elle liste egalement les swaps moteurs autorises dans le club avec leurs nom IRL, leurs caracteristiques minimales et maximales, les types d'alimentation (admission), la voiture d'ou il provient ainsi que toutes les voitures autorisees dans le club sur lesquelles le moteur est disponible.
 
 Voir [Swaps](<https://github.com/Plunne/Forza/tree/main/Swaps#liste-des-swaps-moteurs>).
 
-### 5.1.2 - Admission
+## 5.1.3 - Admission
 
 L'admission contrairement a l'echappement c'est l'entree d'air du moteur, comme son nom l'indique recupere de l'air frais ayant plus de pression que l'air chaud par l'avant de la voiture pour la fournir au moteur.
 
 Afin d'eviter les debris pouvant abimer le moteur, l'admission est souvent filtree.
+
+Ce parametre peut rajouter dans la partie moteur la modification du turbo ou du compresseur dans le cas ou il y en a.
 
 **Il existe 2 grands types d'admission :**
 
@@ -98,7 +92,13 @@ Un compresseur consiste a recuperer une energie du moteur de differentes maniere
     - Excelle dans les longues courbes
     - Puissance difficile a faire passer au sol
 
+## 5.1.4 - Body Kit
 
+Parfois, comme nous l'avons vu dans la partie 4.4 [Presence de kit large](https://github.com/Plunne/Forza/blob/main/Guide/Guide4.md#44---presence-de-kit-large) nous avons la possibilite de mettre un kit de carrosserie large.
+
+Si vous trouvez cela plus joli, notez que le comportement de votre voiture sera grandement impacte car les largeurs de pneus seront bien plus grandes, votre voiture sera plus nerveuse et aura plus de mal a glisser.
+
+Ici, le plus recommande est de ne pas en mettre si votre voiture manque de puissance et de reserver cela pour des moteurs au dessus de 600ch.
 
 -----
 
