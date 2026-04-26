@@ -12,8 +12,8 @@ Etant donne que cette partie regroupe beaucoup d'informations et consiste en plu
 
 ### [V. Choisir ses pieces](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_0.md#v-choisir-ses-pieces)
 - [5.1 - Conversions](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_1.md#51---conversions)
-- [5.2 - Carrosserie]()
-- [5.3 - Roues]()
+- [5.2 - Carrosserie](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_2.md#52---carrosserie)
+- [5.3 - Roues](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_3.md#53---roues)
 - [5.4 - Transmission]()
 - [5.5 - Chassis]()
 - [5.6 - Moteur]()

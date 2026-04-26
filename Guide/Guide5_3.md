@@ -50,5 +50,5 @@ Sur le train avant, vous allez impacter l'incision du train avant mais attention
 -----
 
 [`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
-[`<< Precedent`](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_0.md#v-choisir-ses-pieces)
+[`<< Precedent`](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_2.md#52---carrosserie)
 [`Guide Drift`](https://github.com/Plunne/Forza/tree/main/Guide#guide-du-drift-forza-horizon)
