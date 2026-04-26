@@ -24,14 +24,14 @@ Ci-dessous vous trouverez un tableau des types autorises dans le club avec leur 
 
 | Type            |   Plat | Montagne | Description                                                                                                                     |
 |:----------------|-------:|---------:|:--------------------------------------------------------------------------------------------------------------------------------|
-| **Stock**       | >260Ch |   >400Ch | Ideal pour du drift lent et fluide avec des trajectoires bien larges peut importe la puissance du moteur                        |
-| **Street**      | >280Ch |   >450Ch | Legerement plus adherent que les pneus d'origine dans le cas ou l'on souhaite avoir moins de patinage                           |
-| **Sport**       | >300Ch |   >500Ch | Bon compromis entre drift lent et rapide mais demande un minimum de puissance pour bien glisser et garder une certaine fluidite |
-| **Drift**       | >300Ch |   >500Ch | Pareil que Sport, la grosse difference se trouve dans le visuel des pneus et l'impact sur l'indice performance                  |
-| **Semi-Slicks** | >340Ch |   >600Ch | Le Top pour du drift rapide ou l'on recherche a gagner de la vitesse mais demande beaucoup plus de puissance.                   |
+| **Stock**       | `>260Ch` |   `>400Ch` | *Ideal pour du drift lent et fluide avec des trajectoires bien larges peut importe la puissance du moteur.*                        |
+| **Street**      | `>280Ch` |   `>450Ch` | *Legerement plus adherent que les pneus d'origine dans le cas ou l'on souhaite avoir moins de patinage.*                           |
+| **Sport**       | `>300Ch` |   `>500Ch` | *Bon compromis entre drift lent et rapide mais demande un minimum de puissance pour bien glisser et garder une certaine fluidite.* |
+| **Drift**       | `>300Ch` |   `>500Ch` | *Pareil que Sport, la grosse difference se trouve dans le visuel des pneus et l'impact sur l'indice performance.*                  |
+| **Semi-Slicks** | `>340Ch` |   `>600Ch` | *Le Top pour du drift rapide ou l'on recherche a gagner de la vitesse mais demande beaucoup plus de puissance.*                   |
 
-> Les tests sur plat ont ete realises avec comme reference une Subaru BRZ 2013 avec un chassis, une transmission et les roues d'origine.
-> En montagne, le chassis a vu des suspensions Drift, un allegement course, des barres anti-roulis et des barres anti-rapprochement. La transmission quand a elle a garde sa boite d'origine mais recu un arbre de transmission, un embrayage course ainsi qu'un differentiel drift regle a 100/100.
+> Note : *Les tests sur plat ont ete realises avec comme reference une Subaru BRZ 2013 avec un chassis, une transmission et les roues d'origine.*  
+> *En montagne, le chassis a vu des suspensions Drift, un allegement course, des barres anti-roulis et des barres anti-rapprochement. La transmission quand a elle a garde sa boite d'origine mais recu un arbre de transmission, un embrayage course ainsi qu'un differentiel drift regle a 100/100.*
 
 ## 5.3.3 - Largeur des pneus
 
@@ -43,7 +43,7 @@ Sur le train avant, vous allez impacter l'incision du train avant mais attention
 
 > Rappel : *Les kits larges comme vu dans la partie [4.4 - Presence de kit large](https://github.com/Plunne/Forza/blob/main/Guide/Guide4.md#44---presence-de-kit-large) changent les tailles disponibles a la hausse.*
 
-## 5.3.3 - Largeur des voies
+## 5.3.4 - Largeur des voies
 
 
 
