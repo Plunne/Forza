@@ -16,7 +16,7 @@ La liste des Jantes (W.I.P.) repertorie les modeles autorises dans le club.
 
 ## 5.3.2 - Type de pneus
 
-Dans cette partie nous allons aborder ce qui va definir le plus votre style.
+Dans cette partie nous allons nous interesser ce qui va definir le plus votre style.
 
 Les pneus sont la seule chose qui vous relie a la route, c'est par la que tout se passe, leur type est donc la chose la plus primordiale a prendre en compte.
 
@@ -45,7 +45,11 @@ Sur le train avant, vous allez impacter l'incision du train avant mais attention
 
 ## 5.3.4 - Largeur des voies
 
+Nous avions deja aborde le sujet des largeur des voies dans la partie [4.3 - Largeur des voies](https://github.com/Plunne/Forza/blob/main/Guide/Guide4.md#43---largeur-des-voies) et ce que ca changeait sur le comportement de la voiture.
 
+Sachez donc que vous pouvez y retoucher egalement dans cette partie.
+
+> Rappel : *Les kits larges comme vu dans la partie [4.4 - Presence de kit large](https://github.com/Plunne/Forza/blob/main/Guide/Guide4.md#44---presence-de-kit-large) augmentent la largeur minimale de la voiture sur laquelle vous pourrez elargir les voies d'avantage.*
 
 -----
 
