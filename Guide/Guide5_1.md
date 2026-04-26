@@ -1,12 +1,12 @@
-# 5.1 - Conversion
+# 5.1 - Conversions
 
 En premier lieu, on doit se rendre dans la partie conversion pour definir la base du build. Ces changements doivent se faire des le debut car ils changent toute la philosphie de la voiture et impliquent des changements dans les autres parties.
 
 Parmis les conversions, nous pouvons retrouver un changement de moteur, du type d'admission, du type de transmission et l'ajout de kit-large comme vu precedement.
 
-## 5.1.1 - Transmission RWD
+## 5.1.1 - Transmission
 
-Avant tout chose il faut s'assurer d'etre en propulsion. Si votre voiture est une RWD par defaut, ignorez cette etape, si il s'agit d'une AWD ou d'une FWD, vous pouvez dans cette partie la convertir en RWD.
+Avant tout chose il faut s'assurer d'etre en propulsion. Si votre voiture est une RWD par defaut ( cf. [II. Types de transmissions](https://github.com/Plunne/Forza/blob/main/Guide/Guide2.md#ii-types-de-transmissions) ), ignorez cette etape, si il s'agit d'une AWD ou d'une FWD, vous pouvez la convertir en RWD dans cette partie.
 
 ## 5.1.2 - Swap Moteur
 
@@ -14,7 +14,7 @@ Le swap moteur (changement de moteur) est la premiere chose a voir sur une voitu
 
 Une partie de l'encyclopedie est specialement dediee sur le sujet et vous explique tout sur les differentes architectures moteur et leur fonctionnement. Elle liste egalement les swaps moteurs autorises dans le club avec leurs nom IRL, leurs caracteristiques minimales et maximales, les types d'alimentation (admission), la voiture d'ou il provient ainsi que toutes les voitures autorisees dans le club sur lesquelles le moteur est disponible.
 
-Voir [Swaps](<https://github.com/Plunne/Forza/tree/main/Swaps#liste-des-swaps-moteurs>).
+Voir [Swaps](<https://github.com/Plunne/Forza/tree/main/Swaps#liste-des-swaps-moteurs>) .
 
 ## 5.1.3 - Admission
 
@@ -105,3 +105,4 @@ Ici, le plus recommande est de ne pas en mettre si votre voiture manque de puiss
 [`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
 [`<< Precedent`](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_0.md#v-choisir-ses-pieces)
 [`Guide Drift`](https://github.com/Plunne/Forza/tree/main/Guide#guide-du-drift-forza-horizon)
+[`Suivant >>`](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_1.md#51---conversion)

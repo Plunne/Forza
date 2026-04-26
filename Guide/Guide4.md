@@ -36,7 +36,7 @@ Plus l'empattement est long, moins la voiture est dynamique. En revanche elle de
 
 La largeur des voies c'est l'ecart de distance entre les roues gauche et les roues droite.
 
-Comme pour l'empatement :
+Contrairement a l'empatement :
 
 Plus la largeur de voie est large, plus la voiture est dynamique, ce qui la rend plus brutale. En contre-partie plus exigente et traitre.
 
