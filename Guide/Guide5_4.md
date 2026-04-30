@@ -16,6 +16,11 @@ Si un moteur etait directement lie aux roues, il devrait tourner a des allures i
 
 Pour remedier a cela, la boite de vitesses est constitue d'une pignonerie ayant pour but de demultiplier la force et la vitesse de rotation pour qu'elle devienne exploitable a la fois pour le moteur et l'ensemble des elements mecaniques constituant la transmission.
 
+**Il y a 3 type de boites de vitesses autorisees dans le club :**
+- **Stock :** Boite de vitesses d'origine, aucun reglage disponible
+- **Sport :** Boite de vitesses avec ratio final modifiable
+- **Course :** Boite de vitesses avec ratio final et chacun des rapports modifiables
+
 ### Gears (Rapports)
 
 Les rapports de vitesse sont les vitesses que vous passez dans votre voiture qui correspondent chacune a un usage precis.
@@ -27,11 +32,6 @@ Un moteur ne force pas de la meme maniere de 0 a 100 km/h comme pour 150 a 200 k
 ### Final Drive (Ratio Final)
 
 Le final drive est l'engrenage demultiplicateur final de la chaine de transmission, il se situe dans le differentiel et modifie la longueur de l'ensemble des rapports a la fois.
-
-**Il y a 3 type de boites de vitesses autorisees dans le club :**
-- **Stock :** Boite de vitesses d'origine, aucun reglage disponible
-- **Sport :** Boite de vitesses avec ratio final modifiable
-- **Course :** Boite de vitesses avec ratio final et chacun des rapports modifiables
 
 -----
 
