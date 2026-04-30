@@ -14,7 +14,19 @@ Des jantes legeres reduisent la masse en rotation ce qui permet de gagner de la 
 
 La liste des Jantes (W.I.P.) repertorie les modeles autorises dans le club.
 
-## 5.3.2 - Type de pneus
+## 5.3.2 - Diametre des jantes
+
+Enfin, on peut choisir le diametre des jantes.
+
+Des jantes plus petites font gagner du poids et ameliore l'absorbtion des imperfections de la routes ce qui reduit les rebonds.
+
+Pour les grandes jantes, ca ameliore la reactivite au depens du confort.
+
+Globalement, il s'agit surtout d'une question de look.
+
+Le club limite l'augmentation a 1" au dessus de la taille d'origine jusqu'a 18". Au dela, l'augmentation du diametre n'est pas autorisee.
+
+## 5.3.3 - Type de pneus
 
 Dans cette partie nous allons nous interesser ce qui va definir le plus votre style.
 
@@ -33,7 +45,7 @@ Ci-dessous vous trouverez un tableau des types autorises dans le club avec leur 
 > Note : *Les tests sur plat ont ete realises avec comme reference une Subaru BRZ 2013 avec un chassis, une transmission et les roues d'origine.*  
 > *En montagne, le chassis a vu des suspensions Drift, un allegement course, des barres anti-roulis et des barres anti-rapprochement. La transmission quand a elle a garde sa boite d'origine mais recu un arbre de transmission, un embrayage course ainsi qu'un differentiel drift regle a 100/100.*
 
-## 5.3.3 - Largeur des pneus
+## 5.3.4 - Largeur des pneus
 
 Lorsque le type de pneus ne suffit pas a trouver un bon compromis d'adherence, jouer sur la largeur des pneus pour gagner en grip peut regler le problemes.
 
@@ -43,7 +55,7 @@ Sur le train avant, vous allez impacter l'incision du train avant mais attention
 
 > Rappel : *Les kits larges comme vu dans la partie [4.4 - Presence de kit large](https://github.com/Plunne/Forza/blob/main/Guide/Guide4.md#44---presence-de-kit-large) changent les tailles disponibles a la hausse.*
 
-## 5.3.4 - Largeur des voies
+## 5.3.5 - Largeur des voies
 
 Nous avions deja aborde le sujet des largeur des voies dans la partie [4.3 - Largeur des voies](https://github.com/Plunne/Forza/blob/main/Guide/Guide4.md#43---largeur-des-voies) et ce que ca changeait sur le comportement de la voiture.
 
