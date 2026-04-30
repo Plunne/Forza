@@ -16,7 +16,8 @@ Si un moteur etait directement lie aux roues, il devrait tourner a des allures i
 
 Pour remedier a cela, la boite de vitesses est constitue d'une pignonerie ayant pour but de demultiplier la force et la vitesse de rotation pour qu'elle devienne exploitable a la fois pour le moteur et l'ensemble des elements mecaniques constituant la transmission.
 
-**Il y a 3 type de boites de vitesses autorisees dans le club :**
+**Il y a 3 types de boites de vitesses autorisees dans le club :**
+
 - **Stock :** Boite de vitesses d'origine, aucun reglage disponible
 - **Sport :** Boite de vitesses avec ratio final modifiable
 - **Course :** Boite de vitesses avec ratio final et chacun des rapports modifiables
@@ -32,6 +33,38 @@ Un moteur ne force pas de la meme maniere de 0 a 100 km/h comme pour 150 a 200 k
 ### Final Drive (Ratio Final)
 
 Le final drive est l'engrenage demultiplicateur final de la chaine de transmission, il se situe dans le differentiel et modifie la longueur de l'ensemble des rapports a la fois.
+
+## 5.4.3 - Differentiel
+
+Vous l'attendiez enfin, le voici! Les differentiels!
+
+Dans un virage, les roues de part et d'autres parcourent une distance differente.
+
+Si l'on se contentait de simplement transmettre aux roues motrices exactement la meme vitesse aux deux cotes, un phenomeme de glissement se produirait. La roue arriere a l'interieur du virage devant parcourir une distance plus courte entrerait en concurrence avec la roue arriere exterieure en la freinant et inversement cette derniere ferait accelerer la roue interieure. En bref, chacune ferait glisser l'autre.
+
+Pour remedier a cela, des ingenieurs ont repris le concept de differentiel initialement invente pour le ferroviaire.
+
+Sur un train, les roues sont reliees ce qui constitue un essieu. Pose sur des rails, le differentiel d'un train consiste a avoir des roues coniques vers l'exterieur.
+
+Lorsque le train prend une courbe a gauche par exemple, la force centrifuge pousse le train vers la droite, le decalant et faisant en sorte que la roue droite soit sur la partie ou le diametre de la roue est plus grand et ou le diametre est plus petit sur la roue gauche ce qui permet a la roue gauche de parcourir une distance plus courte et la roue droite une distance plus longue pour la meme vitesse de rotation.
+
+Un differentiel automobile reprend ce principe mais sous forme de mecanisme complexe constitue d'engrenages.
+
+Il prend en entree l'arbre de transmission entraine par la boite vitesse elle meme entrainee par le moteur puis transmet en sa sortie la rotation vers les roues via des cardans.
+
+**Il existe 3 familles de differentiels :**
+
+- **Differentiels Ouverts** *(Open differential)*
+- **Differentiels Fermes** *(Closed differential ou Pont soude)*
+- **Differentiels a Glissement Limite** *(LSD pour Limited Slip Differential)*
+
+
+
+
+## 5.4.4 - Arbre de transmission
+
+
+
 
 -----
 
