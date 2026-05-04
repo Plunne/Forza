@@ -68,3 +68,4 @@ Sachez donc que vous pouvez y retoucher egalement dans cette partie.
 [`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
 [`<< Precedent`](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_2.md#52---carrosserie)
 [`Guide Drift`](https://github.com/Plunne/Forza/tree/main/Guide#guide-du-drift-forza-horizon)
+[`Suivant >>`](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_4.md#54---transmission)

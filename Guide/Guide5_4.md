@@ -56,18 +56,46 @@ Il prend en entree l'arbre de transmission entraine par la boite vitesse elle me
 
 - **Differentiels Ouverts** *(Open differential)*
 - **Differentiels Fermes** *(Closed differential ou Pont soude)*
-- **Differentiels a Glissement Limite** *(LSD pour Limited Slip Differential)*
+- **Differentiels a Glissement Limite** *(Autobloquant ou LSD pour Limited Slip Differential)*
 
+**Differentiels ouverts**
 
+Les differentiels ouverts sont en permanence en train de compenser la difference de rotation entre les deux roues.
 
+**Differentiels fermes**
+
+Les differentiels fermes ou ponts soudes eux ne compensent jamais, les deux roues tournent a la meme vitesse, c'est ce qu'il y avait originellement avant l'invention du differentiel sur les voitures. Cela facilite la glisse et donc tres interessant en drift.
+
+**Differentiels a glissement limite**
+
+Les differentiels a glissement limite sont un hybride entre les differentiels ouverts et fermes. Jusqu'a un certain seuil, le differentiel compense puis des que cela glisse trop, il se bloque et agit comme un differentiel ferme.
+
+Pour chacune de ces familles il en existe plusieurs types  mais je vous laisse vous renseigner sur ces derniers. 
+
+**1.5 ou 2 voies :**
+
+Sur le jeu vous trouverez plusieurs differentiels qui debloquent soient un reglage 1.5 voies soit 2 voies.
+
+Il s'agit des conditions dans lesquelles on peut regler le seuil de compensation du differentiel. A savoir, lors de l'acceleration et la decceleration.
+
+Pour l'acceleration, on regle a quel seuil lors d'une acceleration on souhaite bloquer le differentiel pour faire glisser.
+
+A la deceleration, on regle a quel seuil lors d'une deceleration on souhaite ouvrir le differentiel pour reprendre de l'adherence.
+
+Un 1.5 voies va rester ouvert a la deceleration et reglable a l'acceleration.
+
+Les 2 voies permettent de regler a la fois la deceleration et l'acceleration.
+
+Sur Forza Horizon, on a plusieurs types de differentiels mais qui se differentient juste sur le pre-reglage par defaut, nous allons donc systematiquement prendre le `Differentiel Drift` qui offre le reglage sur 2 voies.
 
 ## 5.4.4 - Arbre de transmission
 
+Pour faire la liaison entre la boite de vitesses et le differentiel, il y a l'arbre de transmission.
 
-
+Dans le jeu nous allons preferer l'`arbre de transmission course` qui plus leger permet de reduire les masses en rotation et gagner des chevaux a la roue.
 
 -----
 
 [`Ressources Drift`](https://github.com/Plunne/Forza/blob/main/README.md)
-[`<< Precedent`](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_2.md#52---carrosserie)
+[`<< Precedent`](https://github.com/Plunne/Forza/blob/main/Guide/Guide5_3.md#53---roues)
 [`Guide Drift`](https://github.com/Plunne/Forza/tree/main/Guide#guide-du-drift-forza-horizon)
