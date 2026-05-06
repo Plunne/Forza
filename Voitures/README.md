@@ -10,14 +10,14 @@ Le club propose differentes listes de voitures plus ou moins restreintes que vou
 
 Vous trouverez ci-dessous les differentes restrictions (Specs) disponibles dans le club.
 
-➜ **[All-Spec](<https://docs.google.com/spreadsheets/d/1p3h3rnQ-OPVLP0lcmZpWMdQIvYEto8y9VhuECoRlgaw/edit?usp=sharing>) :** Liste des voitures autorisees dans le club par defaut lorsqu'aucune restriction n'est precisee.  
-➜ **[FR-Spec](<https://docs.google.com/spreadsheets/d/1I8IScr3finYtPrIrCICTcMSYCh0VNRzCS_4ktn32EQ4/edit?usp=sharing>) :** Voitures de la All-Spec mais avec un moteur avant uniquement.  
-➜ **[JDM-Spec](<https://docs.google.com/spreadsheets/d/1e0HIwN9Due5G7FXMykrEaefqZBy8fHq4LvNrUNeKuyI/edit?usp=sharing>) :** Voitures japonnaises uniquement.  
-➜ **[German-Spec](<https://docs.google.com/spreadsheets/d/10UDat1Xt3lVtlr0MLfG7Sj8T88KGaBZji8zdHzk9Yvg/edit?usp=sharing>) :** Voitures allemandes uniquement.  
-➜ **[US-Spec](<https://docs.google.com/spreadsheets/d/1RZyfx8DZxdDivzHYVNpsOrAUPFmsuH50ScYpcghwzRs/edit?usp=sharing>) :** Voitures americaines uniquement.  
-➜ **[UK-Spec](<https://docs.google.com/spreadsheets/d/1GFnKeLtfNXO7L35UrrYT8Zhw6rQKEiy3p1Z7_YNZ3RI/edit?usp=sharing>) :** Voitures anglaises uniquement.  
-➜ **[Pizza-Spec](<https://docs.google.com/spreadsheets/d/12M-vGDREYe-6K4jNCIF9wwB35rpXBx84YmpQd07bbSo/edit?usp=sharing>) :** Voitures italiennes uniquement.  
-➜ **[EUDM-Spec](<https://docs.google.com/spreadsheets/d/1sKxWFCk-b2ArDW_m_VzhGr6BwKKg_Bt_i6q8-Y9RLcY/edit?usp=sharing>) :** Voitures europeennes uniquement.
+➜ **[All-Spec](<https://docs.google.com/spreadsheets/d/1ZlLT7PFQaqcm1p3Tr5Dn2M_scmjy588J/edit?usp=sharing&ouid=116710128962649501737&rtpof=true&sd=true>) :** Liste des voitures autorisees dans le club par defaut lorsqu'aucune restriction n'est precisee.  
+➜ **[FR-Spec](<https://docs.google.com/spreadsheets/d/1WuSDgBUfvzJoRQvcegJVURpwWEJI5uDL/edit?usp=drive_link&ouid=116710128962649501737&rtpof=true&sd=true>) :** Voitures de la All-Spec mais avec un moteur avant uniquement.  
+➜ **[JDM-Spec](<https://docs.google.com/spreadsheets/d/1y51bWiMZQhr4zTHOoiS4eyklQn9ck6X9/edit?usp=drive_link&ouid=116710128962649501737&rtpof=true&sd=true>) :** Voitures japonnaises uniquement.  
+➜ **[EUDM-Spec](<https://docs.google.com/spreadsheets/d/13b3HWxDUNtHdR9LJEi4JN8zSYZfoL8xb/edit?usp=drive_link&ouid=116710128962649501737&rtpof=true&sd=true>) :** Voitures europeennes uniquement.  
+➜ **[German-Spec](<https://docs.google.com/spreadsheets/d/1MENFJ89BYlgTNbPBY5oBxdVCzocRguu8/edit?usp=drive_link&ouid=116710128962649501737&rtpof=true&sd=true>) :** Voitures allemandes uniquement.  
+➜ **[US-Spec](<https://docs.google.com/spreadsheets/d/1ESmbJLS_1pjaPUvwc3eq5Y8mxMlkxBKB/edit?usp=drive_link&ouid=116710128962649501737&rtpof=true&sd=true>) :** Voitures americaines uniquement.  
+➜ **[UK-Spec](<https://docs.google.com/spreadsheets/d/1pVgT-qU9zXnyD1tEPWxv6mdn3c5yaMyc/edit?usp=drive_link&ouid=116710128962649501737&rtpof=true&sd=true>) :** Voitures anglaises uniquement.  
+➜ **[Pizza-Spec](<https://docs.google.com/spreadsheets/d/1RT4CqkphpE9BZ96ewGsB9kj0eZd7Z_hq/edit?usp=drive_link&ouid=116710128962649501737&rtpof=true&sd=true>) :** Voitures italiennes uniquement.  
 
 > ## ⚠️ **ATTENTION!** ⚠️
 > 
